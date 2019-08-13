@@ -1,0 +1,1 @@
+This prior was trained on the public ChEMBL dataset. The SMILES were standardized using RDKIT

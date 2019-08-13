@@ -1,0 +1,17 @@
+name: reinvent
+channels:
+  - pytorch
+  - defaults
+  - rdkit
+  - OpenEye/label/dev
+dependencies:
+  - python=3.6
+  - rdkit=2018.03.1.0
+  - openeye-toolkits=2017.10.1
+  - pytorch=0.4.0
+  - cuda91
+  - scikit-learn=0.19.1
+  - tqdm=4.19.4
+  - joblib
+  - git
+  - gitpython=2.1.3
