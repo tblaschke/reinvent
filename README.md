@@ -54,17 +54,3 @@ should follow.
 
 4. (Optional) Check out Vizor (https://github.com/tblaschke/vizor) to have a visualization for
 the reinforcement learning
-
-
-
-Write your own scoring function (the general way)
--------------------------------------------------
-You can provide your own scoring function 
-
-
-To write your own scoring function just drop 
-
-Write your own scoring function in python
------------------------------------------
-
-To write your own scoring function just drop 
